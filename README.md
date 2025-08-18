@@ -1,2 +1,2 @@
-# amitbhujbal-homebrew-sysinfo
+# homebrew-sysinfo
 Homebrew tap for sysinfo CL
