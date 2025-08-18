@@ -1,7 +1,7 @@
 class Sysinfo < Formula
   desc "Simple CLI to show system information"
   homepage "https://github.com/amitbhujbal/sysinfo"
-  url "https://github.com/amitbhujbal/sysinfo/archive/refs/tags/v1.0.0.tar.gz"
+  url "https://github.com/amitbhujbal/sysinfo/archive/refs/tags/v1.0.1.tar.gz"
   sha256 "c37c83b697a1ff5c3fa5afa6585615f0c357ac54d71571e47bf73e670f6ed8f6"
   license "MIT"
 
