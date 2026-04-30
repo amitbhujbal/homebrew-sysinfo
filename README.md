@@ -2,8 +2,10 @@
 
 Install:
 
+```bash
 brew tap amitbhujbal/sysinfo
 brew install sysinfo
+```
 
 More:
 https://github.com/amitbhujbal/sysinfo
